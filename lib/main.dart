@@ -74,10 +74,10 @@ class _HomePageState extends State<HomePage> {
 
             ),
            new Text(
-              'value = 0 after pressing button value =  $_counter',
+              'counter value =  $_counter',
           style: new TextStyle(
             color: Colors.red,
-            fontSize:20,
+            fontSize:50,
             fontWeight: FontWeight.w900,
 
           ),),
